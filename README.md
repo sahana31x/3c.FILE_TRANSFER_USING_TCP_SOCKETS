@@ -76,7 +76,6 @@ client_socket.close()
 
 <img width="527" height="91" alt="image" src="https://github.com/user-attachments/assets/119743d8-e547-46ef-8e96-66cd635712db" />
 
-
 <img width="433" height="110" alt="image" src="https://github.com/user-attachments/assets/4dd1f374-6cd9-4446-9b0e-feaa75a46124" />
 
 <img width="442" height="110" alt="image" src="https://github.com/user-attachments/assets/35934b67-686c-429c-93e9-cd9b57fc3bb7" />
